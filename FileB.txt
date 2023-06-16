@@ -1,4 +1,2 @@
 This is File B.
 This is another change in File B.
-Let's make another change.
-Another change in File B.
